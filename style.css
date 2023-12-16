@@ -23,7 +23,7 @@ body {
     .career{
         padding: 0;
         margin: 0;
-        font-size: 35px;
+        font-size: 40px;
         font-family: "Arial Narrow", serif;
     }
 
@@ -35,7 +35,7 @@ body {
     }
 
     .media{
-        margin: 10px;
+        margin: 30px;
     }
 
     .perfil-img{
@@ -47,8 +47,8 @@ body {
 
     .image-container{
         margin: 1px auto;
-        height: 250px;
-        width: 250px;
+        height: 500px;
+        width: 500px;
         border-radius: 300%;
     }
 
@@ -56,17 +56,17 @@ body {
         background-color: black;
         font-family: "Calibri Light", sans-serif;
         color: white;
-        padding: 10px;
+        padding: 40px;
     }
 
     h3{
-        margin: 6px;
+        margin: 15px;
         padding: 0;
 
     }
 
     .contact{
-        font-size: 12px;
+        font-size: 35px;
         display: flex;
         margin: 0;
         padding: 0;
@@ -74,7 +74,7 @@ body {
     }
 
     .content{
-        margin: 10px 20px;
+        margin: 30px 50px;
     }
 
 
