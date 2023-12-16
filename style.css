@@ -12,18 +12,18 @@ body {
         background-color: #D9D7D7;
         padding-top: 12px;
         align-items: center;
+        height: 170px;
     }
 
     .title{
         padding: 0;
         margin: 0;
-        font-size: 40px;
     }
 
     .career{
         padding: 0;
         margin: 0;
-        font-size: 15px;
+        font-size: 35px;
         font-family: "Arial Narrow", serif;
     }
 
